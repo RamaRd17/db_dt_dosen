@@ -1,0 +1,34 @@
+{
+"tb_dt_dosen":[
+  {
+    "NIP": "1985050920181123001",
+    "NAMA": "Ni Kadek Dwi Rusjayanthi, S.T., M.T.",
+    "Email": "dwi.rusjayanthi@unud.ac.id",
+    "Alamat": "Jl. Tukad Melangit Gg. V No. 3, Denpasar",
+  },
+  {
+    "NIP": "1985110320181113001",
+    "NAMA": "I Putu Agus Eka Pratama, S.T., M.T.",
+    "Email": "eka.pratama@unud.ac.id",
+    "Alamat": "Jl Ciung Wenara 18A Gianyar Bali 80511",
+  },
+  {
+    "NIP": "1983081620140212001",
+    "NAMA": "Kadek S W",
+    "Email": "suar_wibawa@yahoo.com",
+    "Alamat": "Banjar Dinas Beji, Desa Sangsit, Kecamatan Sawan, Kabupaten Buleleng",
+  },
+  {
+    "NIP": "197404241999031003",
+    "NAMA": "Prof. Dr. I Ketut Gede Darma Putra, S.Kom., M.T.",
+    "Email": "ikgdarmaputra@unud.ac.id",
+    "Alamat": "Br. Dajan Peken, Mengwitani, Mengwi, Badung, Bali",
+  },
+  {
+    "NIP": "197502272000031001",
+    "NAMA": "I Nyoman Piarsa, ST., MT.",
+    "Email": "manpits@unud.ac.id",
+    "Alamat": "Br. Pande, Desa/Kec. Abiansemal, Kab. Badung",
+  }
+]
+}
